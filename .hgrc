@@ -1,0 +1,12 @@
+[ui]
+username =
+verbose = True
+
+[extensions]
+shelve=
+color=
+pager=
+
+[pager]
+pager = LESS='RRX' less
+
