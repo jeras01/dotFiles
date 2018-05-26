@@ -12,11 +12,3 @@ else
 fi
 # </Git shell prompt additions>
 
-
-# Personal Customizations start here (Place at end of file)
-
-export PATH=~/root/bin:$PATH
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/root/lib
-
-export GOPATH=$HOME/Projects/GoWorkspace
-export PATH=$PATH:$GOPATH/bin
